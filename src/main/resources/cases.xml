@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cases>
+    <case>
+        <id>1</id>
+        <firstName>Gleb</firstName>
+        <lastName>Sorkin</lastName>
+    </case>
+    <case>
+        <id>2</id>
+        <firstName>Kozyrev</firstName>
+        <lastName>Ivan</lastName>
+    </case>
+    <case>
+        <id>3</id>
+        <firstName>Kader</firstName>
+        <lastName>Kirill</lastName>
+    </case>
+    <case>
+        <id>4</id>
+        <firstName>Nastya</firstName>
+        <lastName>Golyuk</lastName>
+    </case>
+    <case>
+        <id>5</id>
+        <firstName>Dmitrii</firstName>
+        <lastName>Miranovich</lastName>
+    </case>
+    <case>
+        <id>6</id>
+        <firstName>Oleg</firstName>
+        <lastName>Sidorenkko</lastName>
+    </case>
+</cases>
